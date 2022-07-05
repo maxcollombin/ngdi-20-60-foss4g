@@ -14,7 +14,7 @@ revealOptions:
 
 ## OGC API State of Play - A practical Testbed for the National Spatial Data Infrastructure in Switzerland
 
-{{1_introdction.md}}
+{{1_introduction.md}}
 {{2_swiss_national_context.md}}
 {{3_methodology.md}}
 {{4_testbed.md}}
