@@ -1,8 +1,7 @@
 name: reveal-pdf
 on:
   push:
-    branches:
-      - master
+    branches: [master]
     paths:
       - 'reveal-js-presentation/*'
 
