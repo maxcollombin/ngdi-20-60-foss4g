@@ -17,6 +17,7 @@ revealOptions:
 {{1_introduction.md}}
 {{2_swiss_national_context.md}}
 {{3_methodology.md}}
-{{4_testbed.md}}
-{{5_results.md}}
-{{6_conclusions.md}}
+{{4_sensor_data.md}}
+{{5_data_discovery_access_portrayal.md}}
+{{6_earth_observation_data.md}}
+{{7_conclusions.md}}
