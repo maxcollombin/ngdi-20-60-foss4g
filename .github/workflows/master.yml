@@ -24,8 +24,6 @@ jobs:
           mkdir build
           cp -r img build/
           ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build slides.md
-      - name: Build PDF
-        run: docker run --rm -t -v `pwd`:/slides -v ~:https://github.com/maxcollombin/ngdi-20-60-foss4g/blob/gh-pages/slides.html slides.pdf
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
